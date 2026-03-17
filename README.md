@@ -19,3 +19,12 @@
 
 
 <img width="788" height="1502" alt="image" src="https://github.com/user-attachments/assets/d6315741-4581-429e-98ac-63e13ee67bad" />
+SIMULATION OUTPUT:
+PARALLEL:
+<img width="1920" height="1080" alt="Screenshot 2026-03-17 125214" src="https://github.com/user-attachments/assets/93381e12-51bf-4751-8a86-4fb1d4f35245" />
+
+
+
+
+SERIES:
+<img width="1920" height="1080" alt="Screenshot 2026-03-17 125310" src="https://github.com/user-attachments/assets/b34ace8b-a24a-4e9c-95ae-1b4649775386" />
